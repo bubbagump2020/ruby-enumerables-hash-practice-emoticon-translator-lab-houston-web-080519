@@ -2,8 +2,8 @@
 require 'yaml'
 def load_library(ruby_file)
   ruby_file_hash = {
-    :get_meaning
-    :get_emoticon
+    :get_meaning => nil
+    :get_emoticon => nil
   }
   return ruby_file_hash
 end
