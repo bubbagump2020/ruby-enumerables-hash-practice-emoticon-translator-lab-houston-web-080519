@@ -5,8 +5,7 @@ ruby_file_hash = {
   'get_meaning' => {},
   'get_emoticon' => {}
 }
-    
-  }
+end
   
  
   
