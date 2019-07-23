@@ -1,7 +1,8 @@
 # require modules here
 require 'yaml'
 def load_library(ruby_file)
-  p ruby_file.inspect
+  ruby_file_hash = {}
+  return ruby_file_hash
 end
 
 def get_japanese_emoticon
