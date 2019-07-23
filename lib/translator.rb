@@ -6,8 +6,6 @@ def load_library(ruby_file)
     :get_emoticon => {}
   }
   
-end
-  
   return ruby_file_hash
 end
 
