@@ -1,7 +1,8 @@
 # require modules here
 
 def load_library
-  require
+  require 'yaml'
+  
 end
 
 def get_japanese_emoticon
