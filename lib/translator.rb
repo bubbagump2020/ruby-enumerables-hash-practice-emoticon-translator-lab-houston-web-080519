@@ -1,7 +1,8 @@
 # require modules here
 require 'yaml'
 def load_library(ruby_file)
-  ruby_file_hash.dig
+  
+  ruby_file.dig(:)
   
   return ruby_file_hash
 end
