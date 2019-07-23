@@ -9,6 +9,7 @@ def load_library(ruby_file)
     key = ruby_file
     if ruby_file_hash[:get_meaning] += 1
       ruby_file_hash[:get_meaning][key]
+    end-
   end
   
   return ruby_file_hash
