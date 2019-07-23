@@ -3,7 +3,6 @@ require 'yaml'
 def load_library(ruby_file)
   ruby_file_hash = {
     :get_meaning => {ruby_file[]}
-    :get_emoticon =>
   }
   
   
