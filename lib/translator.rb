@@ -3,7 +3,7 @@ require 'yaml'
 def load_library(ruby_file)
   ruby_file_hash = {}
   
-  
+  ruby_file_hash.each do |key|
   
   return ruby_file_hash
 end
