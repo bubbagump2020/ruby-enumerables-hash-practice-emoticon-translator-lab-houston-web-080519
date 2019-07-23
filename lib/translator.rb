@@ -2,7 +2,7 @@
 
 def load_library(ruby_file)
   require 'yaml'
-
+  
 
 def get_japanese_emoticon
   # code goes here
